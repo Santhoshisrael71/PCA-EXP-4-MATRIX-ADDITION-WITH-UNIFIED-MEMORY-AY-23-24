@@ -521,13 +521,15 @@ int main(int argc, char **argv)
 SHOW YOUR OUTPUT HERE
 With Memset()
 
-<img width="953" height="248" alt="image" src="https://github.com/user-attachments/assets/940102d4-faa6-4149-8e49-51f0100ff8e4" />
+<img width="1133" height="190" alt="image" src="https://github.com/user-attachments/assets/87273f61-d772-4d8e-9766-e2cef4adb13d" />
+
+
 
 Without Memset()
 
-![Uploading image.png…]()
+<img width="953" height="248" alt="image" src="https://github.com/user-attachments/assets/3234be0b-7e65-4b0b-83f5-1b565738d155" />
 
 
 
 ## RESULT:
-Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more_______________time.
+Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more 0.106563Sec time.
